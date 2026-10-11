@@ -16,7 +16,7 @@ Tested model on 4 agar plates. Early results promising. Needs proper validation.
 ### Tech Stack
 Python, OpenCV, AI model, GitHub
 
-### Next - Day 40
-- Validation with train/val/test split
-- Add metrics: MAE, Precision, Recall
-- Improve repo structure
+### Day 40 - Building the App
+- Build simple web app interface for colony counter
+- Upload image -> Get count
+- Deploy for testing
